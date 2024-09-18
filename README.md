@@ -2,4 +2,15 @@
 sample 
 
 
-C:\Users\Downloads\jasypt-1.9.2>bin\encrypt.bat input=abcd password=changeit allgorithm=PBEWITHHMACSHA512ANDAES_256
+
+----ARGUMENTS-------------------
+
+input: Thisiscertificatepassword123
+password: 
+algorithm: PBEWITHHMACSHA512ANDAES_256
+
+
+
+----OUTPUT----------------------
+
+wBB7tVhEFBzQZV3eYkWzie+LnSO7gsn/+3ixtSDt0mWrnZPrhFNbwCc1sXtLjqlZ
